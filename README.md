@@ -3,7 +3,7 @@
 
 
 ## 安装
-`pip install nonebot-plugin-itnews`
+`pip install nonebot-plugin-itnews -i https://pypi.python.org/simple`
 ## 配置，请前往天行数据申请api:
 https://www.tianapi.com/apiview/20
 
