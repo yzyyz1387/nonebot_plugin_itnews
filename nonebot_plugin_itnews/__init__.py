@@ -26,6 +26,7 @@ async def tianqi(bot: Bot, event: Event, state: dict):
     if event.get_user_id != event.self_id:
         path=fname
         if os.path.exists(path)==False:
+            
             keys=nonebot.get_driver().config.custom_config_it
             itnews.draw_news(keys)
             await bot.send(

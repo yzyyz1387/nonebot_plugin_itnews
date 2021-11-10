@@ -10,6 +10,7 @@ import requests
 from PIL import Image, ImageDraw, ImageFont
 import time
 from os.path import dirname
+import os
 year = time.strftime("%Y", time.localtime())
 mon = time.strftime("%m", time.localtime())
 day = time.strftime("%d", time.localtime())
@@ -32,6 +33,28 @@ def get_news(keys):
 
 
 def draw_news(keys):
+    bgpath=dirname(__file__) + "/source"
+    bgname = dirname(__file__) + "/source/background.png"
+    ttfname = dirname(__file__) + "/source/font.ttc"
+    newspath = dirname(__file__) + "/news"
+    if os.path.exists(bgname)==False:
+        print("创建资源目录")
+        os.mkdir(bgpath)
+    if os.path.exists(bgname)==False:
+        print("下载资源图片")
+        bg=requests.get("https://cdn.jsdelivr.net/gh/yzyyz1387/blogimages/background.png").content
+        with open(bgname,"wb") as fp:
+            fp.write(bg)
+            fp.close()
+    if os.path.exists(ttfname)==False:
+        print("下载资源字体")
+        tf = requests.get("https://cdn.jsdelivr.net/gh/yzyyz1387/blogimages/font.ttc").content
+        with open(ttfname,"wb") as tfn:
+            tfn.write(tf)
+            tfn.close()
+    if os.path.exists(newspath)==False:
+        print("创建输出目录")
+        os.mkdir(newspath)
     news_list=get_news(keys)
     text = "IT 咨讯"
     ttfpath = dirname(__file__) +"/source/font.ttc"
