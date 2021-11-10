@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+nonebot_plugin_itnews.egg-info/PKG-INFO
+nonebot_plugin_itnews.egg-info/SOURCES.txt
+nonebot_plugin_itnews.egg-info/dependency_links.txt
+nonebot_plugin_itnews.egg-info/top_level.txt
+plugins/__init__.py
+plugins/itnews.py
