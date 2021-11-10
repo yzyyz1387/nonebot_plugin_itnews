@@ -1,5 +1,9 @@
 # IT咨讯
 -----
+
+
+## 安装
+`pip install nonebot-plugin-itnews`
 ## 配置，请前往天行数据申请api:
 https://www.tianapi.com/apiview/20
 
