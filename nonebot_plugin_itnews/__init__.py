@@ -11,8 +11,6 @@ from nonebot.rule import to_me
 from nonebot.adapters.cqhttp import Bot, Event,Message,MessageEvent,MessageSegment
 from nonebot.typing import T_State
 from . import itnews
-from pyecharts.render import make_snapshot
-from snapshot_selenium import snapshot
 from os.path import dirname
 import os
 import time

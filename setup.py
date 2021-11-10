@@ -8,8 +8,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="nonebot_plugin_itnews",
-    version="0.1.0",
+    name="nonebot_plugin_itnew",
+    version="0.1.2",
     keywords=("pip", "nonebot2", "nonebot", "itnews", "nonebot_plugin"),
     description="a nonebot plugin",
     long_description="a nonebot plugin, generate pictures from news",
