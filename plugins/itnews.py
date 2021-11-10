@@ -15,7 +15,7 @@ mon = time.strftime("%m", time.localtime())
 day = time.strftime("%d", time.localtime())
 fname = dirname(__file__) +"/news/"+str(year) + str(mon) + str(day) + ".png"
 datetitle = str(year) + "." + str(mon) + "." + str(day)
-print(year, mon, day)
+
 headers={
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWe bKit/537.36 (KHTML, like Gecko) Chrome/93.0.4544.0 Safari/537.36 Edg/93.0.933.1",
 }
