@@ -24,7 +24,7 @@ CUSTOM_CONFIG_IT=[你申请api的key]
 
 **给个star吧~**
 
-##截图
+## 截图
 
 ![](https://cdn.jsdelivr.net/gh/yzyyz1387/blogimages/img/nonebot_p_it.png)
 
