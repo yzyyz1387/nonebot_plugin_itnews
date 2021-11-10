@@ -9,6 +9,23 @@ CUSTOM_CONFIG_IT=[你申请api的key]
 
 ## 指令
 
-"it新闻", "It新闻","IT新闻","it咨讯", "It咨讯","IT咨讯","IT","it","It"
+`it新闻`
+`It新闻`
+`IT新闻`
+`it咨讯`
+`It咨讯`
+`IT咨讯`
+`IT`
+`it`
+`It`
 
 **给个star吧~**
+
+##截图
+
+![](https://cdn.jsdelivr.net/gh/yzyyz1387/blogimages/img/nonebot_p_it.png)
+
+![](https://cdn.jsdelivr.net/gh/yzyyz1387/blogimages/img/none_p_it2.png)
+
+
+
