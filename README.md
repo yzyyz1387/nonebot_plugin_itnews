@@ -1,5 +1,15 @@
+<p align="center">
+  <a href="https://v2.nonebot.dev/"><img src="https://raw.githubusercontent.com/nonebot/nonebot2/master/docs/.vuepress/public/logo.png" width="200" height="200" alt="nonebot"></a>
+</p>
+
+<div align="center">
+
 # IT咨讯📰
------
+
+_✨ NoneBot2 IT咨讯插件 ✨_
+
+</div>
+
 
 ## 安装💿
 `pip install nonebot-plugin-itnews -i https://pypi.python.org/simple`
