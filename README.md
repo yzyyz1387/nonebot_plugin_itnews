@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# IT咨讯📰
+# nonebot IT咨讯📰
 
 _✨ NoneBot2 IT咨讯插件 ✨_
 
