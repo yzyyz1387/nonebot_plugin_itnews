@@ -14,6 +14,12 @@ _✨ NoneBot2 IT咨讯插件 ✨_
 ## 安装💿
 `pip install nonebot-plugin-itnews -i https://pypi.python.org/simple`
 
+
+## 导入📲
+在**bot.py** 导入，语句：
+`nonebot.load_plugin("nonebot_plugin_itnews")`
+
+
 ## 目录结构📂
 
 初次使用时会创建`news`和`source`并下载资源文件至`source`下
