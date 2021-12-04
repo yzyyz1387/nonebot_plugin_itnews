@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# IT咨讯📰
+# nonebot IT咨讯📰
 
 _✨ NoneBot2 IT咨讯插件 ✨_
 
@@ -19,6 +19,10 @@ _✨ NoneBot2 IT咨讯插件 ✨_
 在**bot.py** 导入，语句：
 `nonebot.load_plugin("nonebot_plugin_itnews")`
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> d7a943572009a0d1cb5efa1de13173ca68f3b036
 ## 目录结构📂
 
 初次使用时会创建`news`和`source`并下载资源文件至`source`下
