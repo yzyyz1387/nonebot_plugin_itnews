@@ -8,8 +8,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="nonebot_plugin_itnew",
-    version="0.1.2",
+    name="nonebot_plugin_itnews",
+    version="0.1.3",
     keywords=("pip", "nonebot2", "nonebot", "itnews", "nonebot_plugin"),
     description="a nonebot plugin",
     long_description="a nonebot plugin, generate pictures from news",
@@ -22,5 +22,5 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     platforms="any",
-    install_requires=[]
+    install_requires=["Pillow","requests"]
 )

@@ -1,0 +1,15 @@
+.gitignore
+LICENSE
+README.md
+__init__.py
+setup.py
+nonebot_plugin_itnews/__init__.py
+nonebot_plugin_itnews/itnews.py
+nonebot_plugin_itnews.egg-info/PKG-INFO
+nonebot_plugin_itnews.egg-info/SOURCES.txt
+nonebot_plugin_itnews.egg-info/dependency_links.txt
+nonebot_plugin_itnews.egg-info/requires.txt
+nonebot_plugin_itnews.egg-info/top_level.txt
+nonebot_plugin_itnews/news/20211110.png
+nonebot_plugin_itnews/source/background.png
+nonebot_plugin_itnews/source/font.ttc

@@ -1,0 +1,4 @@
+nonebot==1.9.1
+Pillow==8.4.0
+requests==2.26.0
+setuptools==58.5.3

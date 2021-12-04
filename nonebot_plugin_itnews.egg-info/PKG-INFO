@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: nonebot-plugin-itnews
+Version: 0.1.3
+Summary: a nonebot plugin
+Home-page: https://github.com/yzyyz1387/nonebot_plugin_itnews
+Author: yzyyz1387
+Author-email: youzyyz1384@qq.com
+License: MIT Licence
+Keywords: pip,nonebot2,nonebot,itnews,nonebot_plugin
+Platform: any
+License-File: LICENSE
+
+a nonebot plugin, generate pictures from news
+
