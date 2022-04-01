@@ -22,5 +22,5 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     platforms="any",
-    install_requires=["Pillow","requests"]
+    install_requires=["Pillow","requests","nonebot2","nonebot-adapter-cqhttp"]
 )
