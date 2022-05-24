@@ -71,6 +71,6 @@ def draw_news(keys):
         img_draw.text((chars_x, chars_y), str(i + 1) + ". " + news_list[i], font=ttf, fill=(100, 100, 100))
         chars_y += 65
     byttf = ImageFont.truetype(ttfpath, 15)
-    img_draw.text((850, 1550), "BY Rubot @yzyyz", font=byttf, fill=(0, 0, 0))
+    img_draw.text((850, 1550), "", font=byttf, fill=(0, 0, 0))
     img.save(fname)
 
