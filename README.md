@@ -1,9 +1,14 @@
 <p align="center">
-  <a href="https://v2.nonebot.dev/"><img src="https://raw.githubusercontent.com/nonebot/nonebot2/master/docs/.vuepress/public/logo.png" width="200" height="200" alt="nonebot"></a>
+  <a href="https://v2.nonebot.dev/"><img src="https://v2.nonebot.dev/logo.png" width="200" height="200" alt="nonebot"></a>
 </p>
+
 
 <div align="center">
 
+   
+**你的star是我的动力**  
+**↓**  
+<img src="https://img.shields.io/github/stars/yzyyz1387/nonebot_plugin_itnews.svg?style=social">  
 # nonebot IT咨讯📰
 
 _✨ NoneBot2 IT咨讯插件 ✨_
@@ -55,6 +60,13 @@ CUSTOM_CONFIG_IT=[你申请api的key]
 每日只请求一次，当`news`目录中存在当天的新闻时，直接从本地文件发送，不请求api
 
 **给个star吧~**
+
+## 其他插件 
+[简易群管](https://github.com/yzyyz1387/nonebot_plugin_admin)  
+[在线运行代码](https://github.com/yzyyz1387/nonebot_plugin_code)  
+[it咨讯（垃圾插件）](https://github.com/yzyyz1387/nonebot_plugin_itnews "it资讯")  
+[工作性价比（还没更新beta不能用）](https://github.com/yzyyz1387/nonebot_plugin_workscore)  
+[黑丝插件（jsdelivr问题国内服务器不能用）](https://github.com/yzyyz1387/nonebot_plugin_heisi)
 
 ## 截图🖼
 
